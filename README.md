@@ -32,6 +32,11 @@ All tables connected via one-to-many relationships using shared `ID` and `Date` 
 | **Sales Channel** | Distribution channel split, regional breakdown, customer order table |
 | **Production** | Production output per round, raw material procurement analysis, purchase order breakdown |
 
+![Executive Dashboard](https://github.com/Kjeldsen21/SAP-Manufacturing-Power-BI-Dashboard/blob/main/Power%20BI%20Screenshots/Executive%20Dashboard.png)
+![Sales Channel](https://github.com/Kjeldsen21/SAP-Manufacturing-Power-BI-Dashboard/blob/main/Power%20BI%20Screenshots/Sales%20Channel.png)
+![Production](https://github.com/Kjeldsen21/SAP-Manufacturing-Power-BI-Dashboard/blob/main/Power%20BI%20Screenshots/Production.png)
+![Data Model](https://github.com/Kjeldsen21/SAP-Manufacturing-Power-BI-Dashboard/blob/main/Power%20BI%20Screenshots/PowerBISAPDataModel.png)
+
 
 ## Key Numbers
 
