@@ -1,6 +1,6 @@
 # SAP Manufacturing & Power BI Dashboard
 ## Description
-A group project completed as part of BMI803: Business Processes, featuring an end-to-end BI pipeline built on a SAP ERP manufacturing simulation. Raw transactional data was extracted from SAP focusing on 6 tables, modelled relationally in Power BI, and produced a 3-page executive dashboard.
+A group project completed as part of BMI803: Business Processes, featuring an end-to-end BI pipeline built on a SAP ERP manufacturing simulation. Raw transactional data was extracted from SAP focusing on 6 tables, conducted data modelling in Power BI, and used to develop a 3-page executive dashboard.
 
 Led a team of 6 with role focused on data analysis. Project weighed 25% of the final grade. Received an A.
 
