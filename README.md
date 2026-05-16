@@ -38,6 +38,36 @@ All tables connected via one-to-many relationships using shared `ID` and `Date` 
 ![Data Model](https://github.com/Kjeldsen21/SAP-Manufacturing-Power-BI-Dashboard/blob/main/Power%20BI%20Screenshots/PowerBISAPDataModel.png)
 
 
+## Summary & Findings
+
+The project ran across 4 rounds spanning 3 months of production,
+generating €8.16M in total revenue at an 81.6% profit margin. Analysis of the
+data produced the following key findings:
+
+**Revenue & Regional Performance**
+- West region was the top contributor at €3.09M (37.9%), followed by North
+  at €2.80M (34.3%) and South at €2.27M (27.8%).
+- Lower Saxony was the highest-performing sub-region at €666K, with Hamburg
+  second at €474K.
+- South region underperformed by over €820K vs the top region, indicating
+  an opportunity for targeted commercial activity through revised marketing or pricing strategies.
+
+**Sales Channel**
+- Grocery Chains drove 56.5% of revenue vs 43.5% for Independent Grocers.
+- The split is healthy and not over-reliant on a single channel.
+
+**Product Mix**
+- Revenue was nearly evenly split between SKUs — Blueberry Muesli (50.1%)
+  vs Nut Muesli (49.9%)
+- Production yields diverged in Round 4 wherein Nut Muesli dropped to 36.9%
+  while Blueberry Muesli continued to grow, suggesting a demand shift.
+
+**Procurement**
+- Oats and Wheat each accounted for 35% of ingredient orders, with Nuts and
+  Blueberries at approx. 15% each.
+- Bulk front-loading on Day 1 (320K packaging units) creates working capital
+  exposure if demand patterns shift mid-cycle.
+
 ## Key Numbers
 
 | Metric | Value |
