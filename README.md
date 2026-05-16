@@ -68,6 +68,7 @@ data produced the following key findings:
 - Bulk front-loading on Day 1 (320K packaging units) creates working capital
   exposure if demand patterns shift mid-cycle.
 
+
 ## Key Numbers
 
 | Metric | Value |
